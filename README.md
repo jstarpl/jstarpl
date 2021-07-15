@@ -2,7 +2,7 @@
 
 I'm a Broadcast Software Engineer specializing in Broadcast Graphics and Gallery Automation. I'm currently spending most of my time working on [Sofie TV Automation](https://github.com/nrkno/Sofie-TV-automation/).
 
-💬 Feel free to ask me about Television/Video Broadcasting stuff, Sofie, CasparCG, NodeCG, FFmpeg, vMix, OBS, and other video broadcasting & streaming stuff.
+💬 Feel free to ask me about Television/Video Broadcasting stuff, Sofie, CasparCG, NodeCG, FFmpeg, vMix, OBS, and other video streaming stuff.
 
 📫 Reach me at: [jan.starzak@gmail.com](mailto:jan.starzak@gmail.com)
 
